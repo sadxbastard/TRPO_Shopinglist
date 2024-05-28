@@ -1,113 +1,3 @@
-// import {
-//   Modal,
-//   ModalOverlay,
-//   ModalContent,
-//   ModalHeader,
-//   ModalFooter,
-//   ModalBody,
-//   ModalCloseButton,
-//   Button,
-//   FormControl,
-//   FormLabel,
-//   Input,
-//   NumberDecrementStepper,
-//   NumberIncrementStepper,
-//   NumberInput,
-//   NumberInputField,
-//   NumberInputStepper,
-//   Select,
-//   Switch,
-//   useDisclosure,
-// } from "@chakra-ui/react";
-// import { useState } from "react";
-
-// export default function ModalCreateItem({ onCreate }) {
-//   const { isOpen, onOpen, onClose } = useDisclosure();
-//   const [item, setItem] = useState(null);
-
-//   const onSubmit = (e) => {
-//     e.preventDefault();
-//     setItem(null);
-//     onCreate(item);
-//   };
-
-//   return (
-//     <>
-//       <Button onClick={onOpen}>Создать позицию</Button>
-
-//       <Modal onSubmit={onSubmit} isOpen={isOpen} onClose={onClose} size="xl">
-//         <ModalOverlay />
-//         <ModalContent>
-//           <ModalHeader>Создание позиции</ModalHeader>
-//           <ModalCloseButton />
-//           <ModalBody>
-//             <FormControl isRequired mb={3}>
-//               <FormLabel htmlFor="name-item" mb="0">
-//                 Название покупки
-//               </FormLabel>
-//               <Input
-//                 placeholder="Купить бублики"
-//                 id="name-item"
-//                 onChange={(e) => setItem({ ...item, nameItem: e.target.value })}
-//               ></Input>
-//             </FormControl>
-
-//             <FormControl mb={3}>
-//               <FormLabel htmlFor="quantity-items" mb={0}>
-//                 Выберите количество желаемых покупок
-//               </FormLabel>
-//               <NumberInput
-//                 defaultValue={1}
-//                 min={1}
-//                 id="quantity-items"
-//               >
-//                 <NumberInputField onChange={(e) => setItem({ ...item, quantity: parseInt(e.target.value) })}/>
-//                 <NumberInputStepper>
-//                   <NumberIncrementStepper />
-//                   <NumberDecrementStepper />
-//                 </NumberInputStepper>
-//               </NumberInput>
-//             </FormControl>
-
-//             <FormControl mb={3}>
-//               <FormLabel htmlFor="item-category" mb="0">
-//                 Категория
-//               </FormLabel>
-//               <Select
-//                 placeholder="Выбор категории"
-//                 variant="outline"
-//                 id="item-category"
-//                 onChange={(e) => setItem({ ...item, category: e.target.value })}
-//               >
-//                 <option>Продукты</option>
-//                 <option>Бытовая химия</option>
-//               </Select>
-//             </FormControl>
-
-//             <FormControl display="flex" alignItems="center">
-//               <FormLabel htmlFor="is-bought" mb="0">
-//                 Куплен продукт?
-//               </FormLabel>
-//               <Switch
-//                 id="is-bought"
-//                 onChange={(e) =>
-//                   setItem({ ...item, isBought: e.target.checked })
-//                 }
-//               />
-//             </FormControl>
-//           </ModalBody>
-
-//           <ModalFooter>
-//             <Button mr={3} onClick={onSubmit} /*onClick={onClose}*/>
-//               Создать
-//             </Button>
-//           </ModalFooter>
-//         </ModalContent>
-//       </Modal>
-//     </>
-//   );
-// }
-
 import {
   Modal,
   ModalOverlay,
@@ -161,7 +51,7 @@ export default function ModalCreateItem({ onCreateItem, itemCategories }) {
           <ModalHeader>Создание позиции</ModalHeader>
           <ModalCloseButton />
           <ModalBody>
-            <FormControl isRequired mb={3}>
+            <FormControl mb={3}>
               <FormLabel htmlFor="name-item" mb="0">
                 Название покупки
               </FormLabel>
@@ -225,7 +115,7 @@ export default function ModalCreateItem({ onCreateItem, itemCategories }) {
           </ModalBody>
 
           <ModalFooter>
-            <Button mr={3} onClick={onSubmit}>
+            <Button mr={3} type="submit" onClick={onSubmit}>
               Создать
             </Button>
           </ModalFooter>

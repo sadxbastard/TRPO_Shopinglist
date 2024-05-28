@@ -8,14 +8,15 @@ namespace ShoppingList.Models
         {
             Id = Guid.NewGuid();
             NameItemCategory = string.Empty;
-            Items = new List<Item>();
+            Items = [];
         }
 
         public ItemCategory(string nameItemCategory, List<Item>? items)
         {
             Id = Guid.NewGuid();
             NameItemCategory = nameItemCategory;
-            Items = items ?? new List<Item>();
+            Items = items ?? [];
+            CreatedAt = DateTime.UtcNow;
         }
 
         public Guid Id { get; private set; }
@@ -23,5 +24,7 @@ namespace ShoppingList.Models
         public string NameItemCategory { get; set; }
 
         public List<Item> Items { get; set; }
+
+        public DateTime CreatedAt { get; set; }
     }
 }

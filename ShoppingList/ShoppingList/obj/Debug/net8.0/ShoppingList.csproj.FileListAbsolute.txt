@@ -35,3 +35,4 @@ C:\Mine\Учеба\3_курс\2_семестр\ТРПО\ShoppingList\ShoppingLis
 C:\Mine\Учеба\3_курс\2_семестр\ТРПО\ShoppingList\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.pdb
 C:\Mine\Учеба\3_курс\2_семестр\ТРПО\ShoppingList\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.genruntimeconfig.cache
 C:\Mine\Учеба\3_курс\2_семестр\ТРПО\ShoppingList\ShoppingList\ShoppingList\obj\Debug\net8.0\ref\ShoppingList.dll
+C:\Mine\Учеба\3_курс\2_семестр\ТРПО\ShoppingList\ShoppingList\ShoppingList\obj\Debug\net8.0\ShoppingList.sourcelink.json

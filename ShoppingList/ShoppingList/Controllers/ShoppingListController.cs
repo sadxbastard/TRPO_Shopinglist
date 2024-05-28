@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using ShoppingList.Contracts;
 using ShoppingList.DataAccess;
 using ShoppingList.Models;
+using System.Globalization;
 
 namespace ShoppingList.Controllers
 {
@@ -22,8 +23,7 @@ namespace ShoppingList.Controllers
         {
             if (request.NameItemCategory != null)
             {
-                string nameItemCategory = request.NameItemCategory.Trim()
-                                                                  .ToLower();
+                string nameItemCategory = char.ToUpper(request.NameItemCategory[0]) + request.NameItemCategory.Substring(1).ToLower();
 
                 var foundItemCategory = await _dbContext.ItemCategories
                                                         .FirstOrDefaultAsync(n => n.NameItemCategory == nameItemCategory);
@@ -35,6 +35,7 @@ namespace ShoppingList.Controllers
                     await _dbContext.SaveChangesAsync(ct);
                     return Ok();
                 }
+                return NotFound();
             }
             return BadRequest();
         }
@@ -91,9 +92,7 @@ namespace ShoppingList.Controllers
 
             if (!string.IsNullOrEmpty(request.NameItem))
             {
-                nameItem = request.NameItem.TrimStart()
-                    .TrimEnd()
-                    .ToLower();
+                nameItem = request.NameItem.Trim();
             }
             else
             {
@@ -102,9 +101,7 @@ namespace ShoppingList.Controllers
 
             if (!string.IsNullOrEmpty(request.NameItemCategory))
             {
-                nameItemCategory = request.NameItemCategory.TrimStart()
-                    .TrimEnd()
-                    .ToLower();
+                nameItemCategory = char.ToUpper(request.NameItemCategory[0]) + request.NameItemCategory.Substring(1).ToLower();
             }
             else
             {
@@ -189,8 +186,14 @@ namespace ShoppingList.Controllers
         public async Task<IActionResult> GetItemCategories(CancellationToken ct)
         {
             var categoryDtos = await _dbContext.ItemCategories
-                .Select(n => new ItemCategoryDto(n.Id, n.NameItemCategory, n.Items))
-                .ToListAsync(ct);
+               .Include(n => n.Items)
+               .OrderBy(n => n.CreatedAt) // Сортировка в памяти
+               .Select(n => new ItemCategoryDto(
+                   n.Id,
+                   n.NameItemCategory,
+                   n.Items.OrderBy(i => i.CreatedAt).ToList(), // Сортировка элементов
+                   n.CreatedAt))
+               .ToListAsync();
 
             return Ok(new GetItemCategoriesResponse(categoryDtos));
         }
@@ -199,6 +202,7 @@ namespace ShoppingList.Controllers
         public async Task<IActionResult> GetItems(CancellationToken ct)
         {
             var itemDtos = await _dbContext.Items
+                .OrderBy(n => n.CreatedAt) // сортировка элементов
                 .Select(n => new ItemDto(n.Id, n.NameItem, n.Quantity, n.IsBought, n.ItemCategoryId))
                 .ToListAsync(ct);
 
@@ -215,6 +219,7 @@ namespace ShoppingList.Controllers
             if (foundItemCategory != null)
             {
                 var itemDtos = foundItemCategory.Items
+                    .OrderBy(n => n.CreatedAt) // сортировка элементов внутри категории
                     .Select(n => new ItemDto(n.Id, n.NameItem, n.Quantity, n.IsBought, n.ItemCategoryId))
                     .ToList();
                 return Ok(new GetItemsResponse(itemDtos));
@@ -223,7 +228,6 @@ namespace ShoppingList.Controllers
             {
                 return BadRequest();
             }
-
         }
     }
 }

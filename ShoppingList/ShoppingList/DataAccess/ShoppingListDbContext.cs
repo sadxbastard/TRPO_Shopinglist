@@ -17,7 +17,7 @@ namespace ShoppingList.DataAccess
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql(_configuration.GetConnectionString("Database"));
+            optionsBuilder.UseNpgsql(_configuration.GetConnectionString("default"));
         }
     }
 }

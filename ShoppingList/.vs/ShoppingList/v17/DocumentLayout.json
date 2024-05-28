@@ -3,64 +3,68 @@
   "WorkspaceRootPath": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\models\\itemcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\models\\itemcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\contracts\\createitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\createitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\contracts\\createitemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\createitemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\dataaccess\\shoppinglistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\dataaccess\\shoppinglistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\contracts\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\edititemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\edititemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\models\\itemcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\models\\itemcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\dataaccess\\shoppinglistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\dataaccess\\shoppinglistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|c:\\mine\\\u0443\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0440\u043F\u043E\\shoppinglist\\shoppinglist\\shoppinglist\\contracts\\edititemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\edititemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\edititemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\itemcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\itemcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\getitemcategoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\getitemcategoriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\itemcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\itemcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\edititemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\edititemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\createitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\createitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\createitemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\createitemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\getitemsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\contracts\\deleteitemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\contracts\\deleteitemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC8C467D-E9A4-48E4-A400-B4ADCBEAF0F3}|ShoppingList\\ShoppingList.csproj|C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\shoppinglist\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -99,84 +99,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShoppingListController.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Controllers\\ShoppingListController.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Controllers\\ShoppingListController.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Controllers\\ShoppingListController.cs",
-              "RelativeToolTip": "ShoppingList\\Controllers\\ShoppingListController.cs",
-              "ViewState": "AQIAALYAAAAAAAAAAAAiwFQAAABvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T15:44:23.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemCategories.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\ItemCategories.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Models\\ItemCategories.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\ItemCategories.cs",
-              "RelativeToolTip": "ShoppingList\\Models\\ItemCategories.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T15:21:32.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateItemRequest.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemRequest.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\CreateItemRequest.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemRequest.cs",
-              "RelativeToolTip": "ShoppingList\\Contracts\\CreateItemRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:24:20.159Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ShoppingList\\docker-compose.yml",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\docker-compose.yml",
+              "RelativeToolTip": "ShoppingList\\docker-compose.yml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-17T19:11:09.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Models\\Item.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\Item.cs",
-              "RelativeToolTip": "ShoppingList\\Models\\Item.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAywBgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T15:13:30.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateItemCategoryRequest.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
-              "RelativeToolTip": "ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:10:19.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EditItemRequest.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemRequest.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\EditItemRequest.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemRequest.cs",
-              "RelativeToolTip": "ShoppingList\\Contracts\\EditItemRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:28:35.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\appsettings.json",
               "RelativeDocumentMoniker": "ShoppingList\\appsettings.json",
@@ -184,7 +119,68 @@
               "RelativeToolTip": "ShoppingList\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-17T19:17:02.227Z",
+              "WhenOpened": "2024-05-17T19:17:02.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ShoppingList\\appsettings.Development.json",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\appsettings.Development.json",
+              "RelativeToolTip": "ShoppingList\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T16:04:32.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemCategories.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\ItemCategories.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Models\\ItemCategories.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\ItemCategories.cs",
+              "RelativeToolTip": "ShoppingList\\Models\\ItemCategories.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:21:32.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingListDbContext.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
+              "RelativeToolTip": "ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:55:11.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingListController.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Controllers\\ShoppingListController.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Controllers\\ShoppingListController.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Controllers\\ShoppingListController.cs",
+              "RelativeToolTip": "ShoppingList\\Controllers\\ShoppingListController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:44:23.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Dockerfile",
+              "RelativeDocumentMoniker": "ShoppingList\\Dockerfile",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Dockerfile",
+              "RelativeToolTip": "ShoppingList\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T14:43:52.087Z",
               "EditorCaption": ""
             },
             {
@@ -195,27 +191,98 @@
               "RelativeDocumentMoniker": "ShoppingList\\Program.cs",
               "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Program.cs",
               "RelativeToolTip": "ShoppingList\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA9AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T15:05:59.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\docker-compose.yml",
-              "RelativeDocumentMoniker": "ShoppingList\\docker-compose.yml",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\docker-compose.yml",
-              "RelativeToolTip": "ShoppingList\\docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-17T19:11:09.485Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "ItemCategoryDto.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\ItemCategoryDto.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\ItemCategoryDto.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\ItemCategoryDto.cs",
+              "RelativeToolTip": "ShoppingList\\Contracts\\ItemCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:44:50.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "EditItemCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
+              "RelativeToolTip": "ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:39:57.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Models\\Item.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Models\\Item.cs",
+              "RelativeToolTip": "ShoppingList\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:13:30.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetItemCategoriesResponse.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
+              "RelativeToolTip": "ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:38:39.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditItemRequest.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemRequest.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\EditItemRequest.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemRequest.cs",
+              "RelativeToolTip": "ShoppingList\\Contracts\\EditItemRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:28:35.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateItemCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
+              "RelativeToolTip": "ShoppingList\\Contracts\\CreateItemCategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:10:19.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateItemRequest.cs",
+              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemRequest.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\CreateItemRequest.cs",
+              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\CreateItemRequest.cs",
+              "RelativeToolTip": "ShoppingList\\Contracts\\CreateItemRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:24:20.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ItemDto.cs",
               "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\ItemDto.cs",
               "RelativeDocumentMoniker": "ShoppingList\\Contracts\\ItemDto.cs",
@@ -223,12 +290,11 @@
               "RelativeToolTip": "ShoppingList\\Contracts\\ItemDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:34:03.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:34:03.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DeleteItemCategoryRequest.cs",
               "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\DeleteItemCategoryRequest.cs",
               "RelativeDocumentMoniker": "ShoppingList\\Contracts\\DeleteItemCategoryRequest.cs",
@@ -240,70 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Dockerfile",
-              "RelativeDocumentMoniker": "ShoppingList\\Dockerfile",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Dockerfile",
-              "RelativeToolTip": "ShoppingList\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-22T14:43:52.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShoppingListDbContext.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
-              "RelativeToolTip": "ShoppingList\\DataAccess\\ShoppingListDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:55:11.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetItemCategoriesResponse.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
-              "RelativeToolTip": "ShoppingList\\Contracts\\GetItemCategoriesResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T16:38:39.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ItemCategoryDto.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\ItemCategoryDto.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\ItemCategoryDto.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\ItemCategoryDto.cs",
-              "RelativeToolTip": "ShoppingList\\Contracts\\ItemCategoryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:44:50.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EditItemCategoryRequest.cs",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
-              "RelativeDocumentMoniker": "ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
-              "RelativeToolTip": "ShoppingList\\Contracts\\EditItemCategoryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:39:57.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GetItemsResponse.cs",
               "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\Contracts\\GetItemsResponse.cs",
               "RelativeDocumentMoniker": "ShoppingList\\Contracts\\GetItemsResponse.cs",
@@ -312,18 +315,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T23:46:48.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ShoppingList\\appsettings.Development.json",
-              "ToolTip": "C:\\Mine\\\u0423\u0447\u0435\u0431\u0430\\3_\u043A\u0443\u0440\u0441\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0420\u041F\u041E\\ShoppingList\\ShoppingList\\ShoppingList\\appsettings.Development.json",
-              "RelativeToolTip": "ShoppingList\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-17T16:04:32.492Z"
             },
             {
               "$type": "Document",

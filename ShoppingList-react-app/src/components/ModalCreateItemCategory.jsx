@@ -37,7 +37,7 @@ export default function ModalCreateItemCategory({onCreateItemCategory}) {
           <ModalHeader>Создание категории</ModalHeader>
           <ModalCloseButton />
           <ModalBody>
-            <FormControl isRequired mb={3}>
+            <FormControl mb={3}>
               <FormLabel htmlFor="name-item" mb="0">
                 Название категории
               </FormLabel>

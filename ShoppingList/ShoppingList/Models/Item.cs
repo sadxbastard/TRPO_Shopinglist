@@ -12,6 +12,7 @@ namespace ShoppingList.Models
             Quantity = quantity;
             IsBought = isBought;
             ItemCategoryId = itemCategoryId ?? Guid.Empty;
+            CreatedAt = DateTime.UtcNow;
         }
 
         public Guid Id { get; private set; }
@@ -23,6 +24,8 @@ namespace ShoppingList.Models
         public bool IsBought { get; set; }
 
         public Guid ItemCategoryId { get; set; }
+
+        public DateTime CreatedAt { get; set; }
 
     }
 }

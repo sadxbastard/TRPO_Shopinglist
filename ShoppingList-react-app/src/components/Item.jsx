@@ -1,15 +1,15 @@
-import { DeleteIcon, EditIcon } from "@chakra-ui/icons";
+import { DeleteIcon } from "@chakra-ui/icons";
 import {
+  FormLabel,
   Card,
+  Checkbox,
+  CardHeader,
+  Heading,
   CardBody,
   CardFooter,
-  CardHeader,
-  Checkbox,
-  FormLabel,
-  Heading,
   IconButton,
 } from "@chakra-ui/react";
-import { useState } from "react";
+import ModalEditItem from "./ModalEditItem";
 
 export default function Item({
   id,
@@ -17,15 +17,22 @@ export default function Item({
   quantity,
   isBought,
   itemCategoryId,
-  onDelete
+  onDelete,
+  itemCategories,
+  onUpdateItem
 }) {
-  const [item, setItem] = useState({
+  const item = {
     _id: id,
     _nameItem: nameItem,
     _quantity: quantity,
     _isBought: isBought,
     _itemCategoryId: itemCategoryId,
-  });
+  };
+
+  const handleCheckboxChange = async (e) => {
+    const updatedItem = { ...item, _isBought: e.target.checked };
+    await onUpdateItem(updatedItem);
+  };
 
   return (
     <li className="flex justify-center items-center">
@@ -34,17 +41,23 @@ export default function Item({
         display="grid"
         gridTemplateColumns="auto 1fr auto"
         gridTemplateRows="auto auto"
-        gap={0}
         alignItems="center"
-        variant="filled"
+        variant={isBought ? "outline" : "filled"}
+        borderWidth={1}
+        borderColor="#E2E8F0"
+        gap={0}
         p={0}
+        m={0}
       >
         <Checkbox
           size="lg"
           ml="15px"
+          p="0"
           gridColumn="1 / 2"
           gridRow="1 / 3"
           alignSelf="center"
+          isChecked={isBought}
+          onChange={handleCheckboxChange}
         ></Checkbox>
         <CardHeader gridColumn="2 / 3" gridRow="1 / 2" p="0 0 0 15px" mt="auto">
           <Heading size="md">{nameItem}</Heading>
@@ -60,9 +73,11 @@ export default function Item({
           gap={2}
           m={0}
         >
-          <IconButton variant="outline">
-            <EditIcon></EditIcon>
-          </IconButton>
+          <ModalEditItem
+            item={item}
+            itemCategories={itemCategories}
+            onUpdateItem={onUpdateItem}
+          />
           <IconButton variant="outline" onClick={() => onDelete(id)}>
             <DeleteIcon />
           </IconButton>
