@@ -77,6 +77,18 @@ export const updateItemCategory = async (itemCategory) => {
     }
 }
 
+export const deleteItemCategory = async (id) => {
+    try {
+
+        const response = await axios.delete(`/ShoppingList/DeleteItemCategory/${id}`);
+        console.log(response.data);
+        
+        return response.status;
+    } catch (e) {
+        console.error(e);
+    }
+}
+
 // import axios from "axios"
 
 // const apiClient = axios.create({

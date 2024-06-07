@@ -53,7 +53,7 @@ namespace ShoppingList.Controllers
 
             if (!string.IsNullOrWhiteSpace(request.nNameItemCategory))
             {
-                category.NameItemCategory = request.nNameItemCategory.Trim().ToLower();
+                category.NameItemCategory = char.ToUpper(request.nNameItemCategory[0]) + request.nNameItemCategory.Substring(1).ToLower();
             }
 
             await _dbContext.SaveChangesAsync(ct);
@@ -61,12 +61,12 @@ namespace ShoppingList.Controllers
             return Ok();
         }
 
-        [HttpDelete("DeleteItemCategory")]
-        public async Task<IActionResult> DeleteItemCategory([FromBody] Guid Id, CancellationToken ct)
+        [HttpDelete("DeleteItemCategory/{id}")]
+        public async Task<IActionResult> DeleteItemCategory([FromRoute] Guid id, CancellationToken ct)
         {
             var category = await _dbContext.ItemCategories
             .Include(x => x.Items)
-            .FirstOrDefaultAsync(x => x.Id == Id);
+            .FirstOrDefaultAsync(x => x.Id == id);
 
             if (category == null)
             {

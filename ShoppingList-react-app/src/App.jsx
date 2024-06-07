@@ -7,6 +7,7 @@ import {
   createItem,
   createItemCategory,
   deleteItem,
+  deleteItemCategory,
   fetchItemCategories,
   updateItem,
   updateItemCategory,
@@ -60,7 +61,11 @@ function App() {
   };
 
   const onEditItemCategory = async (itemCategory) => {
-    await updateItemCategory(itemCategory);
+    if (itemCategory._nameItemCategory === "") {
+      await deleteItemCategory(itemCategory._id);
+    } else {
+      await updateItemCategory(itemCategory);
+    }
     let itemCategories = await fetchItemCategories();
     setItemCategories(itemCategories);
   };
